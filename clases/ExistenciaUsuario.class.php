@@ -1,5 +1,5 @@
 <?php
-
+//pepe
 class ExistenciaUsuario
 {
         //param es un objeto de tipo Usuario

@@ -22,7 +22,7 @@ class Admin
         $this->Pass_Usr_Sist= $pus;
 
     }
-    
+    //pepepe
     //Métodos set
     
     public function setTipo_Usr_Sist($tus)
